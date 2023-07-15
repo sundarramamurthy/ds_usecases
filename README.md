@@ -1,6 +1,6 @@
 ### **Title: From Data Ingestion to Model Performance: A Comprehensive Guide to End-to-End Data Analysis**
 
-**- **Introduction:****
+**- **Introduction:*****
   In today's data-driven world, businesses rely heavily on data analysis to make informed decisions. While linear regression models are a fundamental tool in data analysis, the key differentiator lies in the approach taken to analyze the data. This blog post showcases a step-by-step process, from data ingestion to model performance interpretation, designed with business stakeholders in mind. By combining clear explanations, simple English, and practical coding examples in a Jupyter notebook, this analysis provides a comprehensive and accessible guide to understanding and utilizing data effectively.
 
 **1. Data Ingestion:**
